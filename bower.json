@@ -1,0 +1,20 @@
+{
+  "name": "angular-admin",
+  "version": "0.0.1",
+  "authors": [
+    "Lomas joshi <lomasjoshi2000@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ui-router": "~0.2.15",
+    "angular-animate": "~1.4.3",
+    "angular-material": "~0.10.0",
+    "ionicons": "~2.0.1"
+  }
+}
